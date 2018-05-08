@@ -1,0 +1,16 @@
+PODS:
+  - GHJCustomControl (0.1.0)
+
+DEPENDENCIES:
+  - GHJCustomControl (from `../`)
+
+EXTERNAL SOURCES:
+  GHJCustomControl:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GHJCustomControl: 0c2f8ef7905a166234497854ce63be5fa27dc02e
+
+PODFILE CHECKSUM: 70b3985309c341d7905f8933af609280cca9d0f0
+
+COCOAPODS: 1.3.1

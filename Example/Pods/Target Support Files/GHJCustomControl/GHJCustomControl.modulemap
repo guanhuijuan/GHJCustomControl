@@ -1,0 +1,6 @@
+framework module GHJCustomControl {
+  umbrella header "GHJCustomControl-umbrella.h"
+
+  export *
+  module * { export * }
+}
